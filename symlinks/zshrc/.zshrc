@@ -79,6 +79,7 @@ export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export GOPATH=~/projects/go
+export PATH=$PATH:$GOPATH/bin
 bindkey -v
 unsetopt nomatch
 unsetopt BEEP

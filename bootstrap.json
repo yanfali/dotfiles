@@ -28,7 +28,8 @@
         "git/.*": "~",
         "vim/.*": "~",
         "vimrc/.*": "~",
-        "zshrc/.*": "~"
+        "zshrc/.*": "~",
+        "tmux/.*": "~"
     },
     "taps": [
         "caskroom/cask"

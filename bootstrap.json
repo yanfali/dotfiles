@@ -1,0 +1,30 @@
+{
+	"after-scripts": [
+		"brew linkapps"
+	],
+	"casks": [
+		"dropbox",
+		"firefox",
+		"google-chrome",
+		"google-hangouts",
+		"iterm2",
+		"vlc"
+	],
+	"formulas": [
+		"brew-cask",
+		"git",
+		"go",
+		"macvim --overwrite-system-vi",
+		"nodejs",
+		"zsh"
+	],
+	"symlinks": {
+		"~/dropbox/.gitconfig": "~",
+		"~/dropbox/vim/.vim": "~",
+		"~/dropbox/vim/.vimrc": "~",
+		"~/dropbox/vim/.gvimrc": "~"
+	},
+	"taps": [
+		"caskroom/cask"
+	]
+}

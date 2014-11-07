@@ -1,0 +1,22 @@
+{
+  "NSGlobalDomain": {
+    "AppleFontSmoothing": 2,
+    "AppleShowAllExtensions": true,
+    "ApplePressAndHoldEnabled": false,
+    "KeyRepeat": 0.02,
+    "InitialKeyRepeat": 1.2,
+    "NSAutomaticSpellingCorrectionEnabled": false,
+    "WebKitDeveloperExtras": true
+  },
+  "com.apple.finder": {
+    "ShowPathbar": true,
+    "_FXShowPosixPathInTitle": true
+  },
+  "com.apple.desktopservices": {
+    "DSDontWriteNetworkStores": true
+  },
+  "com.apple.screensaver": {
+    "askForPassword": 1,
+    "askForPasswordDelay": 0
+  }
+}

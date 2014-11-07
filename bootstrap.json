@@ -8,21 +8,27 @@
         "google-chrome",
         "google-hangouts",
         "iterm2",
+        "skype",
         "vlc"
     ],
     "formulas": [
         "brew-cask",
+        "curl",
         "git",
         "go",
         "macvim --overwrite-system-vi",
+        "mercurial",
         "node",
+        "openssl",
+        "ragel",
+        "wget",
         "zsh"
     ],
     "symlinks": {
-        "~/Dropbox/.gitconfig": "~/.gitconfig",
-        "~/Dropbox/vim/.gvimrc": "~/.gvimrc",
-        "~/Dropbox/vim/.vim": "~/.vim",
-        "~/Dropbox/vim/.vimrc": "~/.vimrc"
+        "git/.*": "~",
+        "vim/.*": "~",
+        "vimrc/.*": "~",
+        "zshrc/.*": "~"
     },
     "taps": [
         "caskroom/cask"

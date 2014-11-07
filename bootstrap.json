@@ -12,24 +12,30 @@
         "vlc"
     ],
     "formulas": [
+        "autoconf",
+        "automake",
         "brew-cask",
         "curl",
         "git",
         "go",
+        "htop-osx",
+        "libevent",
+        "libtool",
         "macvim --overwrite-system-vi",
         "mercurial",
         "node",
         "openssl",
         "ragel",
+        "tmux",
         "wget",
         "zsh"
     ],
     "symlinks": {
         "git/.*": "~",
+        "tmux/.*": "~",
         "vim/.*": "~",
         "vimrc/.*": "~",
-        "zshrc/.*": "~",
-        "tmux/.*": "~"
+        "zshrc/.*": "~"
     },
     "taps": [
         "caskroom/cask"

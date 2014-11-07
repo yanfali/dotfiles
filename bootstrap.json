@@ -3,12 +3,17 @@
         "brew linkapps"
     ],
     "casks": [
+        "adium",
         "dropbox",
         "firefox",
         "google-chrome",
         "google-hangouts",
+        "hipchat",
         "iterm2",
+        "menumeters",
         "skype",
+        "vagrant",
+        "virtualbox",
         "vlc"
     ],
     "formulas": [

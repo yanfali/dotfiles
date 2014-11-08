@@ -1,6 +1,8 @@
 {
     "after-scripts": [
-        "brew linkapps"
+        "brew linkapps",
+		"./scripts/npm.sh",
+		"./scripts/httpie.sh",
     ],
     "casks": [
         "adium",
@@ -38,6 +40,7 @@
     ],
     "symlinks": {
         "git/.*": "~",
+        "gvimrc/.*": "~",
         "tmux/.*": "~",
         "vim/.*": "~",
         "vimrc/.*": "~",

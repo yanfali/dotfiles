@@ -14,11 +14,12 @@
         "hipchat",
         "iterm2",
         "menumeters",
+        "mou",
+        "prey",
         "skype",
         "vagrant",
         "virtualbox",
-        "vlc",
-        "mou"
+        "vlc"
     ],
     "formulas": [
         "autoconf",

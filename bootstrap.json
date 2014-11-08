@@ -2,7 +2,8 @@
     "after-scripts": [
         "brew linkapps",
         "./scripts/npm.sh",
-        "./scripts/httpie.sh"
+        "./scripts/httpie.sh",
+        "./scripts/go-setup.sh"
     ],
     "casks": [
         "adium",

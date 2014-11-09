@@ -37,6 +37,7 @@
         "openssl",
         "optipng",
         "pngcrush",
+        "pwsafe",
         "ragel",
         "tig",
         "tmux",

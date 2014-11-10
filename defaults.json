@@ -3,8 +3,8 @@
     "AppleFontSmoothing": 2,
     "AppleShowAllExtensions": true,
     "ApplePressAndHoldEnabled": false,
-    "KeyRepeat": 0.02,
-    "InitialKeyRepeat": 1.2,
+    "KeyRepeat": 2,
+    "InitialKeyRepeat": 12,
     "NSAutomaticSpellingCorrectionEnabled": false,
     "WebKitDeveloperExtras": true
   },

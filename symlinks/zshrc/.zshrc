@@ -85,3 +85,4 @@ unsetopt nomatch
 unsetopt BEEP
 unsetopt HIST_BEEP
 unsetopt LIST_BEEP
+source ~/.keys

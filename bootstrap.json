@@ -23,6 +23,7 @@
         "vlc"
     ],
     "formulas": [
+        "ack",
         "autoconf",
         "automake",
         "brew-cask",
@@ -40,6 +41,7 @@
         "libtool",
         "macvim --overwrite-system-vi",
         "mercurial",
+        "nmap",
         "node",
         "openssl",
         "optipng",

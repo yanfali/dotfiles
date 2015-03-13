@@ -6,7 +6,9 @@
     "KeyRepeat": 2,
     "InitialKeyRepeat": 12,
     "NSAutomaticSpellingCorrectionEnabled": false,
-    "WebKitDeveloperExtras": true
+    "WebKitDeveloperExtras": true,
+    "NSAutomaticQuoteSubstitutionEnabled": false,
+    "NSAutomaticDashSubstitutionEnabled": false
   },
   "com.apple.finder": {
     "ShowPathbar": true,
@@ -18,5 +20,15 @@
   "com.apple.screensaver": {
     "askForPassword": 1,
     "askForPasswordDelay": 0
+  },
+  "com.apple.Safari": {
+    "UniversalSearchEnabled": false,
+    "SuppressSearchSuggestions": true
+  },
+  "com.apple.print.PrintingPrefs": {
+    "Quit When Finished": true
+  },
+  "com.apple.SoftwareUpdate": {
+    "ScheduleFrequency": 1
   }
 }

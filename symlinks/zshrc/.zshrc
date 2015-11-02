@@ -86,3 +86,6 @@ unsetopt BEEP
 unsetopt HIST_BEEP
 unsetopt LIST_BEEP
 source ~/.keys
+
+export NVM_DIR="/Users/yanfali/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
